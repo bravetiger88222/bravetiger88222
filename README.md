@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey
 
-<!--
-**bravetiger88222/bravetiger88222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer figuring things out as I go.
 
-Here are some ideas to get you started:
+### About me
+Currently exploring backend and tooling stuff. Spending time with Python and learning how systems actually work under the hood. Not in a rush.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / Node
+- Git
+- Linux
+- occasional SQL
+
+### Stuff
+Mostly small experiments and learning projects for now. Will drop real things here when they're worth sharing.
+
+Feel free to say hi if something looks interesting.
